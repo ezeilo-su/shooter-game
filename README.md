@@ -1,1 +1,1 @@
-# shooter-game
+# space-shooter-game
