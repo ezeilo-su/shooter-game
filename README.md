@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[Live Demo Version]()
+[Live Demo]()
 
 ## Instructions
 
