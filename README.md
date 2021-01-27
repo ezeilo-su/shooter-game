@@ -33,7 +33,7 @@ Each enemy(goblin and orc) dead will give 15 points.
 If any of the enemies attacks you, you die and the game ends. After that, you can submit your score.
 
 
-## Dependemcies
+## Dependencies
 
 - JavaScript
 - A bit of HTML and CSS for the front end
