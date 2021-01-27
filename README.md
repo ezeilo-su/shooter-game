@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[Live Demo Version](https://spaceshooter-phaser.herokuapp.com/)
+[Live Demo Version]()
 
 ## Instructions
 
