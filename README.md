@@ -32,53 +32,6 @@ Each enemy(goblin and orc) dead will give 15 points.
 
 If any of the enemies attacks you, you die and the game ends. After that, you can submit your score.
 
-## Design
-
-This game includes 1 hero and 2 enemies:
-### The Hero
-<img src='src/assets/screenshots/wizard.png' style="width: 50px; margin-left: 30px;">
-
-- Name: The Wizard
-- Objective: Protect the kingdom
-- Attack: Ice <img src='src/assets/screenshots/ice.png' style="width: 20px;">
-- Weapon: Magic Wand <img src='src/assets/screenshots/magicWand.png' style="width: 30px;">
-
-### Enemy
-<img src='src/assets/screenshots/orc.png' style="width: 70px; margin-left: 20px;">
-
-- Name: Orc
-- Objective: Attack everything
-- Weapon: Mace <img src='src/assets/screenshots/mace.png' style="width: 70px;">
-
-### Enemy
-<img src='src/assets/screenshots/goblin.png' style="width: 70px; margin-left: 20px;">
-
-- Name: Goblin
-- Objective: Attack everything
-- Weapon: Axe <img src='src/assets/screenshots/axe.png' style="width: 70px;">
-
-## Screenshots
-
-### Main Menu
-![Main Menu](src/assets/screenshots/menu.png)
-
-### Game Instructions
-![Game Instructions](src/assets/screenshots/instructions.png)
-
-### Game
-![Game](src/assets/screenshots/game.png)
-
-### Game Over
-![Game Over](src/assets/screenshots/gameOver.png)
-
-### Record
-![Record](src/assets/screenshots/records.png)
-
-## Future Implementations
-
-- Add stages
-- Add music
-- Add multiplayer
 
 ## Dependemcies
 
